@@ -1,0 +1,7 @@
+yarn add --dev typescript typechain ts-node @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node
+
+// getting the value of constants directly using timeLock.PROPOSER_ROLE() in 04
+// difference between get of deployments in 03 and getContractAt
+// contract.interface and contract.interface.encodeFunctionData
+
+yarn hardhat console --network localhost
